@@ -11,7 +11,7 @@ avg = (mark1 + mark2 + mark3 + mark4) / 4
 
 if (avg >= 90):
     print("\n")
-    print("outstanding")
+    print("outstanding ")
 
 elif (avg >= 80) and (avg < 90):
     print("\n")
