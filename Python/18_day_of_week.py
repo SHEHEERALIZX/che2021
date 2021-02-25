@@ -13,7 +13,7 @@ elif (day == 4):
 elif (day == 5):
     print("Thursday")   
 elif (day == 6):
-    print("Firday")   
+    print("Friday")   
 elif (day == 7):
     print("Saturday")   
 else :
