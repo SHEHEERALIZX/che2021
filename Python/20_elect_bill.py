@@ -12,4 +12,4 @@ elif (unit_consumed > 600):
     charge = 390 + 1.0 * ( unit_consumed - 600)
 
 
-print("Your Electricity Bill for consuming ",unit_consumed, " unit is : ", charge)       
+print("Your Electricity Bill for consuming ",unit_consumed, " unit is : ", charge)     

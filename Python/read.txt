@@ -1,0 +1,105 @@
+    1  python sreeju.py
+    2  sudo apt-get update
+    3  sudo apt-get install python
+    4  python sreeju.py
+    5  python average.py
+    6  python tem to faren
+    7  python tem to faren.py
+    8  python tem.py
+    9  python area.py
+   10  python tem.py
+   11  python triangle.py
+   12  python volume.py
+   13  clear
+   14  python volume.py
+   15  python triangle.py
+   16  python oddeven.py
+   17  python tension.py
+   18  python temp.py
+   19  python gratest.py
+   20  cd Desktop/
+   21  cd Desktop/bivinnjr
+   22  cd Desktop
+   23  python bivinjr.py
+   24  cd Desktop
+   25  python bivinjr.py
+   26  cd bivinnjr
+   27  python area.py
+   28  ls
+   29  python area.py
+   30  python volume.py
+   31  python swap.py
+   32  cd Desktop/
+   33  bivinnjr
+   34  largest.py
+   35  python largest.py
+   36  cd Desktop
+   37  python largest.py
+   38  python largest.py
+   39  cd Desktop
+   40  python largest.py
+   41  python secondmethod.py
+   42  cd Desktop msd7
+   43  cd Desktop
+   44  cd Desktop msd7
+   45  cd Desktop
+   46  cd msd7
+   47  g++ infix to postfix.cpp
+   48  sudo apt-get update
+   49  sudo apt-get install g++
+   50  g++ infix to postfix.cpp
+   51  ls
+   52  infix.cpp
+   53  g++ infix.cpp
+   54  ./a.out
+   55  cd Desktop
+   56  cd msd7
+   57  g++ evalpo.cpp
+   58  g++ evalpop.cpp
+   59  ./a.out
+   60  cd Desktop
+   61  cd msd7
+   62  g++ evalpo.cpp
+   63  ./a.out
+   64  g++ evalpo.cpp
+   65  ./a.out
+   66  g++ evalpo.cpp
+   67  ./a.out
+   68  g++ evalpo.cpp
+   69  ./a.out
+   70  g++ evalpo.cpp
+   71  ./a.out
+   72  g++ evalpop.cpp
+   73  ./a.out
+   74  g++ evalpop.cpp
+   75  ./a.out
+   76  g++ infix.cpp
+   77  ./a.out
+   78  snap
+   79  sudo snap install code --classic
+   80  python3 32.py 
+   81  python 2`
+   82  python 28.py 
+   83  python3 22.py 
+   84  clear
+   85  python3 33.py 
+   86  cd ..
+   87  git add --all
+   88  git commit -m "SEM 1 Finsihed"
+   89  git push --all
+   90  clear
+   91  cd Python/
+   92  python3 prime_or_not.py 
+   93  python factoria.pyl
+   94  python factorial.py
+   95  python tension.py
+   96  python_tension.py
+   97  cd ..
+   98  cd Py
+   99  cd Python/
+  100  ls
+  101  python3 33.py 
+  102  clear
+  103  history -1
+  104  history --help
+  105  history > read.txt
