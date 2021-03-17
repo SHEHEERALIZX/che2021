@@ -9,3 +9,4 @@ while count < nterms:
     num1 = num2
     num2 = nth
     count = count + 1
+    
