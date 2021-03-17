@@ -3,10 +3,14 @@
 
 num = int(input("Enter the number to output the reverse of a number  :"))
 
-sum = 0 
+# print(num[::-1])
 
-while num > 1:
-    m = num % 10
-    sum = sum + m 
+r = ''
+reverse = 0
+while num + 1 > 1:
+    rem = num % 10
+    reverse = reverse * 10 + rem
     num = int(num / 10)
-print(sum)    
+    # print(reverse)
+    # print(num)
+print(reverse)    

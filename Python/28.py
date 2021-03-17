@@ -1,6 +1,6 @@
 import os 
 os.system('clear')
-print("Program to find factorial of a number :\n \n")
+print("Program to find factorial of a number \n")
 
 num = int(input("Enter the number to print factorial of the number : "))
 fact = 1
